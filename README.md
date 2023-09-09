@@ -80,6 +80,7 @@ D. Unlocking 5G Mode for Non-Japanese Carriers
 		2.3. Reboot to apply setting.
 
 E. Enable USB Debugging
+
 	1. Swipe up your device
 	2. Go to "Hamburger Icon>Status" and tap "Phone Number" 10 times.
 	3. On Developer Options, tap to enable "USB Debugging".
