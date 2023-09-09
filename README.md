@@ -21,18 +21,27 @@ Compiled OTA Updates: https://app.box.com/s/hn55vxnurdkvg6zlu8r2nixwhl7f0dg7
 Complete Device Specifications:
 =============================================
 MediaTek Dimensity 720 (MT6853)
+
 Android 11 with OneUI 3.0 (w/o Google Play Services)
+
 2.5GB RAM
+
 32GB Internal Storage
+
 WiFi 5
+
 5000mAH Battery
+
 5.3" (1480x720) LCD Display
 
 Network bands:
+
 5G: n28 / n41 / n77 / n78
+
 4G: LTE FDD: B1 / B3 / B17 / B18 TDD: B41
 
 Disabled Bands that can be enabled:
+
 4G: B7 / B38
 
 =============================================
