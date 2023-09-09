@@ -1,10 +1,7 @@
-=============================================
 For Samsung Galaxy 5G Mobile Wi-Fi SCR01 (SM-H412J)
-=============================================
 
-=============================================
 Reference Links: 
-=============================================
+
 XDA Forum Support: https://forum.xda-developers.com/t/please-help-me-to-get-5g-connection-on-galaxy-5g-mobile-wi-fi-scr01.4469827/
 
 Amazon Japan Store Link: https://www.amazon.jp/dp/B098XJ88HM
@@ -17,9 +14,8 @@ Device Update Changelog: https://doc.samsungmobile.com/SCR01/KDI/doc.html
 
 Compiled OTA Updates: https://app.box.com/s/hn55vxnurdkvg6zlu8r2nixwhl7f0dg7
 
-=============================================
 Complete Device Specifications:
-=============================================
+
 MediaTek Dimensity 720 (MT6853)
 Android 11 with OneUI 3.0 (w/o Google Play Services)
 2.5GB RAM
@@ -35,9 +31,9 @@ Network bands:
 Disabled Bands that can be enabled:
 4G: B7 / B38
 
-=============================================
+
 Instructions:
-=============================================
+
 A. Setting up your device.
 
 	1. Upon first boot, you will need to setup your device in Landscape mode. Choose your language first then tap "Ok" then tap "Start". On the 2nd page tap "Continue".
