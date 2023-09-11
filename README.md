@@ -1,6 +1,4 @@
-=============================================
-For Samsung Galaxy 5G Mobile Wi-Fi SCR01 (SM-H412J)
-=============================================
+# For Samsung Galaxy 5G Mobile Wi-Fi SCR01 (SM-H412J)
 
 =============================================
 Reference Links: 
